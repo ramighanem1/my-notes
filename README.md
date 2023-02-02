@@ -1,5 +1,10 @@
 # **my-notes**
 
+
+## LAB-04 part 2: Flexbox :
+
+![screenshot](Capture.PNG)
+
 ## **About me :**
     Computer Engineering Student (M.Sc) with solid experience in SQL Server Database and a solid understanding of various AI fields, including machine learning, deep learning, computer vision, natural language processing, and reinforcement learning. I seek to develop a long-term career in building Artificial Intelligence Solutions and applications.
 
